@@ -38,7 +38,7 @@ OSI modeli, ağ oluşturmada kullanılan temel bir modeldir. Bu model, ağ bağl
 ## Data Link
 
 - Bu katman, ağdaki cihazlar arasında doğrudan iletişimi sağlar.
-- Veri çerçeveleri adı verilen paketleri alır ve gönderir.
+- Frame adı verilen paketleri alır ve gönderir.
 - Bu katmanda hata kontrolü ve akış kontrolü gibi temel işlevler bulunur.
 
 ## Physical Layer
